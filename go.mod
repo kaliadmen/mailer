@@ -1,4 +1,4 @@
-module mailer
+module github.com/kaliadmen/mailer
 
 go 1.18
 
